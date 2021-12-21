@@ -12,7 +12,7 @@ public class Demo
 		System.out.println("ms");
 		System.out.println("Welcome");
 		System.out.println("Mrunal")
-		
+		System.out.println("Mayur");
 		Demo d = new Demo();
 		d.m1();
 		d.m2();
