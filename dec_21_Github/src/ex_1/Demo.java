@@ -7,6 +7,7 @@ public class Demo
 		System.out.println("hello");
 		System.out.println("hi");
 		System.out.println("hiiiii");
+		System.out.println("Mayur");
 		
 		Demo d = new Demo();
 		d.m1();
