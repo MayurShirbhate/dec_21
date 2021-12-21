@@ -9,12 +9,18 @@ public class Demo
 		System.out.println("hiiiii");
 		
 		Demo d = new Demo();
-		d.m1;
+		d.m1();
+		d.m2();
 	}
 	
 	public void m1()
 	{
 		System.out.println("heyyyyyy");
+	}
+	
+	public void m2()
+	{
+		System.out.println("heyyy");
 	}
 	
 
