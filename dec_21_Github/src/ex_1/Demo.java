@@ -16,6 +16,7 @@ public class Demo
 		Demo d = new Demo();
 		d.m1();
 		d.m2();
+		System.out.println("CJC");
 	}
 	
 	public void m1()
